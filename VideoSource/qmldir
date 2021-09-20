@@ -1,0 +1,3 @@
+module Ngi.VideoSource
+plugin VideoSource
+
